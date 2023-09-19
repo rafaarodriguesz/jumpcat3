@@ -21,3 +21,20 @@
   border-radius: 20px;
   width: 80%;
 }
+
+.french-button{
+  width: 150px;
+  height: 50px;
+  border-radius: 15px;
+  background-color: #33425a;
+  color: #fff;
+  border: #33425a;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-top: 30px;
+}
+
+.french-button:hover{
+  background-color: #111120;
+  cursor: pointer;
+}
